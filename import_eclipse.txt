@@ -1,5 +1,5 @@
 1. clone source code
-    git clone git@gitee.com:real_sccl_lee/spring-framework-3.1.0.rc1.git
+    git clone git@gitee.com:real_sccl_lee/spring-framework-3.1.0.rc2.git
 2. clone dependencies
     链接:https://pan.baidu.com/s/1kfmpEwaHgOhFG2oaQWgYDA 提取码:real，下载完成后解压到临时文件夹:git pull
     选择源码所需要的jar，在不改变文件夹的结构的情况下，复制到本地Maven仓库
